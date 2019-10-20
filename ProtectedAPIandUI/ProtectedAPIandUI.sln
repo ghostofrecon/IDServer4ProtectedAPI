@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedAPIandUI", "ProtectedAPIandUI.csproj", "{3C6BBFBF-6BDD-42AC-BBE7-0B2A3133C8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-react-ui", "..\sample-react-ui\sample-react-ui.csproj", "{E4450CE1-8EC9-4189-99AC-61476E7E327B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6BBFBF-6BDD-42AC-BBE7-0B2A3133C8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6BBFBF-6BDD-42AC-BBE7-0B2A3133C8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6BBFBF-6BDD-42AC-BBE7-0B2A3133C8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6BBFBF-6BDD-42AC-BBE7-0B2A3133C8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4450CE1-8EC9-4189-99AC-61476E7E327B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4450CE1-8EC9-4189-99AC-61476E7E327B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4450CE1-8EC9-4189-99AC-61476E7E327B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4450CE1-8EC9-4189-99AC-61476E7E327B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A1AECE6-B9F1-4A70-9B0E-814F471A1922}
+	EndGlobalSection
+EndGlobal
